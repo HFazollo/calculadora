@@ -1,0 +1,33 @@
+.calculadora {
+    background: #2E2E2E;
+    margin-top: 40px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px black;
+}
+
+.btn {
+    width: 60px;
+    height: 50px;
+    box-shadow: 1px 1px 1px black;
+    margin: 5px;
+}
+
+.resultado {
+    text-align: right;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    box-shadow: 1px 1px 1px black;
+    border: 1px solid black;
+    height: 44px;
+}
+
+.clear, .zero {
+    width: 130px;
+}
+
+.igual {
+    height: 110px;
+}
